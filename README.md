@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" alt="image" width="400">
+<img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" width="200">
 <h1 align="center">Hi 👋, I'm Samurd</h1>
 <h3 align="center">A passionate Full stak developer from Colombia, in process...</h3>
 
