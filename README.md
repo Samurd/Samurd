@@ -1,7 +1,10 @@
+<img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" alt="image" width="400">
 <h1 align="center">Hi 👋, I'm Samurd</h1>
 <h3 align="center">A passionate Full stak developer from Colombia, in process...</h3>
 
 - 🌱 I’m currently learning **JavaScript, React.js**
+
+- 📫 How to reach me **samuelviloriadd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
