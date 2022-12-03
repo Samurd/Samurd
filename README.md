@@ -1,4 +1,3 @@
-<iframe src="https://giphy.com/embed/PTBVMsYIOB0SBP4MVe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe">via GIPHY</a></p>
 <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" width="200">
 <h1 align="center">Hi 👋, I'm Samurd</h1>
 <h3 align="center">A passionate Full stak developer from Colombia, in process...</h3>
