@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://samurd.netlify.app/index.html](https://samurd.netlify.app/index.html)
+- 👨‍💻 All of my projects are available at [https://samurdp.vercel.app/](https://samurdp.vercel.app/)
 
 - 📫 How to reach me **samuelviloriadd@gmail.com**
 
