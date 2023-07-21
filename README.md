@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samurd</h1>
-<h3 align="center">A passionate Full stak developer from Colombia, in process...</h3>
+<h1 align="center">Hi 👋, I'm Samurdp</h1>
+<h3 align="center">Full Stack developer from Colombia.</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
