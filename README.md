@@ -1,5 +1,5 @@
 # 💫 About Me:
-a full time dreamer and I'm passionate about technology. I am a web developer, I keep myself updated in a self-taught way in leadership topics and latest advances in technology. I have experience in web development.<br><br>
+I am a full time dreamer and I am passionate about technology. I am a software developer, I keep myself updated in a self-taught way in leadership topics and latest advances in technology. I have experience in web development.<br><br>
 
 
 ## 🌐 Socials:
